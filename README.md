@@ -1,7 +1,7 @@
 # Getting started
 
 ## Project description
-This is a Laravel-based web application that allows you to monitor exceptions thrown by external Laravel-based web applications. The application utilizes the Laravel framework to provide a user-friendly interface for tracking and managing exceptions, as well as a robust system for logging and analyzing exception data. Whether you're a developer looking to keep track of bugs in your own code or an IT professional responsible for managing a team of developers, this application can help you stay on top of issues and keep your web applications running smoothly.
+This is a Laravel-based web application that allows you to monitor exceptions thrown by external Laravel-based web applications by reading the error log file. The application utilizes the Laravel framework to provide a user-friendly interface for tracking and managing exceptions, as well as a robust system for logging and analyzing exception data. Whether you're a developer looking to keep track of bugs in your own code or an IT professional responsible for managing a team of developers, this application can help you stay on top of issues and keep your web applications running smoothly.
 
 ## Installation
 
